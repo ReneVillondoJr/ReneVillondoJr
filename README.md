@@ -40,15 +40,16 @@ I build modern, scalable, and user-friendly web applications with **Next.js, Rea
 
 ## 🚀 Featured Projects
 
-### 🏢 Member Management System
+### 🏢 Member Management System — Private Government Project
 
-A full-stack management platform designed to manage members, staff accounts, roles, permissions, member information, activity logs, and administrative workflows through a responsive dashboard.
+A full-stack **private government management system** designed to manage member records, staff accounts, roles, permissions, activity logs, and administrative workflows through a secure and responsive dashboard.
+
+The system includes **role-based access control, staff management, member data management, authentication, permission management, activity tracking, and database-driven dashboards**.
 
 **Tech:** `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `shadcn/ui`
 
-[Live Demo](YOUR_LIVE_DEMO_URL) · [Source Code](YOUR_REPOSITORY_URL)
+🔒 **Private Government Project** — Source code and live system are not publicly available.
 
----
 
 ### 🏨 Hotel Booking Platform
 
@@ -56,7 +57,7 @@ A modern hotel booking application focused on providing guests with a clean and 
 
 **Tech:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
 
-[Live Demo](YOUR_LIVE_DEMO_URL) · [Source Code](YOUR_REPOSITORY_URL)
+[Live Demo]([YOUR_LIVE_DEMO_URL](https://hotel-booking-lake-three.vercel.app/) · [Source Code](YOUR_REPOSITORY_URL)
 
 ---
 
