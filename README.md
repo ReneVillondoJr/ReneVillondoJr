@@ -145,28 +145,4 @@ A responsive personal portfolio showcasing my projects, technical skills, and ex
 📧 [Email](mailto:rene.villondo01@gmail.com)
 
 
----
 
-### 💼 Developer Portfolio
-
-A responsive personal portfolio showcasing my projects, technical skills, and experience as a full-stack web developer.
-
-**Tech:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
-
-[Live Demo](https://portfolio-renevillondo.vercel.app/) 
-
-## 📚 Currently
-
-* 🚀 Building full-stack applications with **Next.js and TypeScript**
-* 🏗️ Improving **backend architecture and database design**
-* 🔐 Developing better **authentication and authorization systems**
-* 🧩 Applying **clean architecture and modular development practices**
-* 🌱 Continuously learning and improving as a **full-stack developer**
-
-## 📫 Connect With Me
-
-🌐 [Portfolio](https://portfolio-renevillondo.vercel.app/)
-
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
-
-📧 [Email](mailto:rene.villondo01@gmail.com)
