@@ -60,8 +60,8 @@ A modern hotel booking application focused on providing guests with a clean and 
 
 **Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
 
-🔗 [Live Demo](https://hotel-booking-lake-three.vercel.app/guest)
-🔗 [Live Demo](https://hotel-booking-lake-three.vercel.app/admin/dashboard)
+🔗 [Live guest](https://hotel-booking-lake-three.vercel.app/guest)
+🔗 [Live admin](https://hotel-booking-lake-three.vercel.app/admin/dashboard)
 
 ---
 
