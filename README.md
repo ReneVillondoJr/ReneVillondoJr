@@ -67,7 +67,7 @@ A responsive personal portfolio showcasing my projects, technical skills, and ex
 
 **Tech:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
 
-[Live Demo](https://portfolio-seven-eosin-10.vercel.app/) · [Source Code](YOUR_REPOSITORY_URL)
+[Live Demo](portfolio-renevillondo.vercel.app/) 
 
 ## 📚 Currently
 
@@ -79,7 +79,7 @@ A responsive personal portfolio showcasing my projects, technical skills, and ex
 
 ## 📫 Connect With Me
 
-🌐 [Portfolio](https://portfolio-seven-eosin-10.vercel.app/)
+🌐 [Portfolio](portfolio-renevillondo.vercel.app/)
 
 💼 [LinkedIn](YOUR_LINKEDIN_URL)
 
