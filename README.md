@@ -97,17 +97,17 @@ I build modern, scalable, and user-friendly web applications with **Next.js, Rea
 
 `Clean Architecture` · `Modular Architecture` · `Reusable Components` · `Responsive Design` · `Type-Safe Development`
 
-## 🚀 Featured Projects
+### 🏢 Government Member Administration Platform
 
-### 🏢 Member Management System — Private Government Project
+**Private Government Project**
 
-A full-stack **private government management system** designed to manage member records, staff accounts, roles, permissions, activity logs, and administrative workflows through a secure and responsive dashboard.
+A full-stack government administration platform designed to streamline the management of member records, staff accounts, roles, permissions, and administrative workflows through a secure and responsive web-based system.
 
-The system includes **role-based access control, staff management, member data management, authentication, permission management, activity tracking, and database-driven dashboards**.
+The platform includes **role-based access control (RBAC), authentication and authorization, permission management, staff and member administration, activity logging, and database-driven dashboards and analytics**.
 
-**Tech:** `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `shadcn/ui`
+**Tech Stack:** `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `shadcn/ui`
 
-🔒 **Private Government Project** — Source code and live system are not publicly available.
+🔒 Due to confidentiality requirements, the source code and live production system are not publicly available.
 
 
 ### 🏨 Hotel Booking Platform
