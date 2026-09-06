@@ -65,11 +65,26 @@ A modern hotel booking application focused on providing guests with a clean and 
 
 ---
 
-### 💼 Developer Portfolio
+💳 LoanFlow — Loan Origination & Decisioning Platform
 
-A responsive personal portfolio showcasing my projects, technical skills, and experience as a full-stack web developer.
+A modern full-stack loan origination platform designed to streamline the **loan application, customer management, credit assessment, document processing, and decisioning workflow** through a secure and responsive web application.
 
-**Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
+The platform features **customer and staff authentication, role-based access control (RBAC), loan application management, credit scoring, automated decisioning, document management, loan tracking, customer portals, administrative dashboards, and database-driven workflows**.
+
+**Tech Stack:** `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `shadcn/ui`
+
+🔗 [Live Demo](https://loanflow-one.vercel.app/auth/login)
+
+**🔐 Demo Login**
+
+Use the following accounts to explore different user experiences:
+
+* **Admin:** `admin@gmail.com`
+* **Customer:** `customer@gmail.com`
+
+*Demo accounts are provided for testing and demonstration purposes.*
+
+---
 
 🔗 [Live Demo](https://portfolio-renevillondo.vercel.app/)
 
