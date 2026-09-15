@@ -116,7 +116,9 @@ The application also explores an **AI-powered real estate concierge** to help us
 
 **Tech Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Prisma` · `PostgreSQL` · `Auth.js`
 
-🔗 [View Project](https://real-estate-property-gilt.vercel.app/)
+🔗 [Guest Portal](https://real-estate-property-gilt.vercel.app/)
+🔗 [Admin Portal](https://real-estate-property-gilt.vercel.app/login)
+
 
 ---
 
